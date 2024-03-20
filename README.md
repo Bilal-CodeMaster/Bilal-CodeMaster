@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilal-Ahmad-007" alt="Bilal-Ahmad-007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ad___520" target="blank"><img src="https://img.shields.io/twitter/follow/ad___520?logo=twitter&style=for-the-badge" alt="ad___520" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bilalcodemaster?t=4TcPMr-nRT-2sysEY__IgQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bilalcodemaster?t=4TcPMr-nRT-2sysEY__IgQ&s=09?logo=twitter&style=for-the-badge" alt="bilalcodemaster" /></a> </p>
 
 - 🔭 I’m currently working on **Intern in Oasis Info Bytes and Voluntere in Seffism Comunity**
 

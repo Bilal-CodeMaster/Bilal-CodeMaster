@@ -2,8 +2,7 @@
 <h3 align="center">I'm passionate about web development with a focus on the MERN stack and blockchain technologies.</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bilal-Ahmad-007" alt="Bilal-Ahmad-007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil-techcode" alt="adil-techcode" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bilalcodemaster" target="blank"><img src="https://img.shields.io/twitter/follow/bilalcodemaster?logo=twitter&style=for-the-badge" alt="bilalcodemaster" /></a> </p>
 

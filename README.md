@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bilal Ahmad/h1>
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">I'm passionate about web development with a focus on the MERN stack and blockchain technologies.</h3>
 
